@@ -15,9 +15,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 	
-
-// 获取用户信息接口
-Route::get('test/prevent','Test\PreventController@prevent');
-
-Route::get('test/tests','Test\PreventController@tests');
-Route::post('test/md5post','Test\PreventController@md5post');
+Route::prefix('login')->group(function () {
+Route::get('/log','Index\LogController@log');
+Route::post('/log_do','Index\LogController@log_do');
+Route::get('/reg','Index\LogController@reg');
+Route::post('/reg_do','Index\LogController@reg_do');
+});
