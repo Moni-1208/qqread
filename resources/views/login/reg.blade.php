@@ -8,7 +8,7 @@
 	<form action="/login/reg_do" method="post" id="form">
 		<meta name="csrf-token" content="{{ csrf_token() }}">
 	@csrf
-		用户:<input type="text" name="u_name" id="u_name"><br>
+		用户手机号:<input type="text" name="u_name" id="u_name"><br>
 		密码:<input type="password" name="u_pwd" id="u_pwd"><br>
 		确认密码:<input type="password" name="u_pwd1" id="u_pwd1"><br>
 		<input type="submit" value="注册">
