@@ -11,7 +11,7 @@ use App\Model\UserModel;
 
 class LogController extends Controller
 {
-   // 登陆展示
+   // 登陆展示 .
    public function log()
    {
     return view('login.log');
