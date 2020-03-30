@@ -23,7 +23,7 @@ class LogController extends Controller
         $data=$request->except('_token');
         $res=UserModel::where(['u_pwd'=>$data['u_pwd']])->first();
         if($res){
-            echo "<script>alert('登陆成功');location.href='/index/index';</script>";exit;
+            echo "<script>alert('登陆成功');location.href='/';</script>";exit;
         }else{
             echo "<script>alert('登陆失败');location.href='/login/log';</script>";exit;
         }
