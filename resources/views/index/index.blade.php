@@ -48,11 +48,7 @@
 
                             <div class="detailWrap"><span class="num3">1</span><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html"><img src="static/picture/s_23240412.jpg" width="55" height="74"  alt="鸿渐于磐"/></a><div class="detailInfo"><h4><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html">心理时间</a></h4><p>作者：<a target="_blank" href="http://account.book.qq.com/bk/author/AD1QOgdqWWhcNwtvV2FTZAA6WzNQPgNi">真乎子</a></p><p>分类：<a target="_blank" href="http://chuangshi.qq.com/bk/wx/xx20011/">现代心理</a></p></div>
 
-                            <div class="detailWrap"><span class="num3">2</span><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html"><img src="static/picture/s_23240412.jpg" width="55" height="74"  alt="鸿渐于磐"/></a><div class="detailInfo"><h4><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html">笑江湖</a></h4><p>作者：<a target="_blank" href="http://account.book.qq.com/bk/author/AD1QOgdqWWhcNwtvV2FTZAA6WzNQPgNi">风弄</a></p><p>分类：<a target="_blank" href="http://chuangshi.qq.com/bk/wx/xx20011/">古代武侠</a></p></div>
-
-                            <div class="detailWrap"><span class="num3">3</span><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html"><img src="static/picture/s_23240412.jpg" width="55" height="74"  alt="鸿渐于磐"/></a><div class="detailInfo"><h4><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html">红楼梦</a></h4><p>作者：<a target="_blank" href="http://account.book.qq.com/bk/author/AD1QOgdqWWhcNwtvV2FTZAA6WzNQPgNi">曹雪芹</a></p><p>分类：<a target="_blank" href="http://chuangshi.qq.com/bk/wx/xx20011/">社会文学</a></p></div>
-
-                            <div class="detailWrap"><span class="num3">4</span><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html"><img src="static/picture/s_23240412.jpg" width="55" height="74"  alt="鸿渐于磐"/></a><div class="detailInfo"><h4><a target="_blank" href="http://chuangshi.qq.com/bk/wx/23240412.html">西游记</a></h4><p>作者：<a target="_blank" href="http://account.book.qq.com/bk/author/AD1QOgdqWWhcNwtvV2FTZAA6WzNQPgNi">吴承恩</a></p><p>分类：<a target="_blank" href="http://chuangshi.qq.com/bk/wx/xx20011/">虚构</a></p></div>
+                            
 
                         </div></li></ul>
 
